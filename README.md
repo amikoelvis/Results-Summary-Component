@@ -27,12 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Screenshot](./screenshot.jpg)
+![Desktop Screenshot](./design/screenshot.png)
 
 ### Links
 
-- **Solution URL:** [https://github.com/yourusername/results-summary-component](https://github.com/yourusername/results-summary-component)
-- **Live Site URL:** [https://yourusername.github.io/results-summary-component](https://yourusername.github.io/results-summary-component)
+- **Solution URL:** [https://github.com/amikoelvis/Results-Summary-Component](https://github.com/amikoelvis/Results-Summary-Component)
+- **Live Site URL:** [https://results-summary-component-plum-one.vercel.app/](https://results-summary-component-plum-one.vercel.app/)
 
 ## My process
 
@@ -87,7 +87,7 @@ useEffect(() => {
 
 ## Author
 
-- Website - [Amiko Elvis](https://tip-calculator-app-puce-five.vercel.app/)
+- Website - [Amiko Elvis](https://results-summary-component-plum-one.vercel.app/)
 - Frontend Mentor - [@amikoelvis](https://www.frontendmentor.io/profile/amikoelvis)
 - Twitter - [@ElvisAmiko](https://www.twitter.com/ElvisAmiko)
 
