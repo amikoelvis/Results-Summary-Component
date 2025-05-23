@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Hanken Grotesk", "sans-serif";
+  --breakpoint-mobile: 23.4375 rem;
+  --breakpoint-tablet: 48 rem;
+  --breakpoint-desktop: 90 rem;
+
+  --color-primary-light-red: hsl(0, 100%, 67%);
+  --color-primary-orangey-yellow: hsl(39, 100%, 56%);
+  --color-primary-green-teal: hsl(166, 100%, 37%);
+  --color-primary-cobalt-blue: hsl(234, 85%, 45%);
+
+  --color-gradient-light-slate-blue-background: hsl(252, 100%, 67%);
+  --color-gradient-light-royal-blue-background: hsl(241, 81%, 54%);
+  --color-gradient-violet-blue-circle: hsla(256, 72%, 46%, 0.5);
+  --color-gradient-persian-blue-circle: hsla(241, 72%, 46%, 0);
+
+  --color-neutral-white: hsl(0, 0%, 100%);
+  --color-neutral-pale-blue: hsl(221, 100%, 96%);
+  --color-neutral-light-lavender: hsl(241, 100%, 89%);
+  --color-neutral-dark-gray-blue: hsl(224, 30%, 27%);
+
+  --font-size-paragraph: 1.125rem;
+}
